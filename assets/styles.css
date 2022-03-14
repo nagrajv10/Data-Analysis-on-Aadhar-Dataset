@@ -1,0 +1,13 @@
+body{
+
+	background-color: black;
+}
+
+.card{
+	text-align: center;
+	color: white;
+}
+
+#gender-fig{
+	height: 500px;
+}
